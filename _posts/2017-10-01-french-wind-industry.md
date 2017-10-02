@@ -1,5 +1,5 @@
 ---
-title: French wind industry tipped to be crème de la crème
+title: French wind industry tipped to be creme de la creme
 date: 2017-10-01T08:00:00Z
 categories:
 - infraestructura
@@ -9,7 +9,7 @@ layout: blog
 featured-img-url: french-wind-industry.jpg
 featured-img-alt: French wind industry
 meta: French wind industry tipped to be crème de la crème
-excerpt: According to WindEurope’s CEO, Giles Dickson, France has the brightest wind energy outlook of any European country. He was speaking at the eighth national symposium on wind power in Paris some days ago.
+excerpt: According to WindEurope’s CEO, Giles Dickson, France has the brightest wind energy outlook of any European country.
 author: vortex
 keywords: 'vortex, France, Wind, Syndicat des Energies Renouvelables'
 ---
